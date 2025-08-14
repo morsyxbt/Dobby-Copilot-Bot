@@ -1,4 +1,4 @@
-# 🧩DOBBY Copilot Discord Bot - Run Locally
+# 🧩Dobby Copilot Discord Bot - Run Locally
 Meet my dobby copilot discord bot to help you :
 
 * Analyse your code
