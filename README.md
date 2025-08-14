@@ -85,7 +85,7 @@ bot = DobbyBot()
 
 @bot.tree.command(name="startbot", description="Start the bot and check if it's working")
 async def startbot(interaction: discord.Interaction):
-    await interaction.response.send_message("🤖 Dobby Copilot Bot is online and ready!")
+    await interaction.response.send_message(" Dobby Copilot Bot is online and ready!")
 
 @bot.tree.command(name="pastecode", description="Paste your broken code")
 async def pastecode(interaction: discord.Interaction, code: str):
@@ -99,7 +99,7 @@ async def runcheckup(interaction: discord.Interaction):
         return
     await interaction.response.defer()  # prevents timeout
     analysis = await call_dobby(f"Find and explain bugs in the following code:\n{bot.user_code}")
-    await interaction.followup.send(f"📝 **Analysis:**\n{analysis}")
+    await interaction.followup.send(f" **Analysis:**\n{analysis}")
 
 @bot.tree.command(name="fixthecode", description="Fix the pasted code and explain the changes")
 async def fixthecode(interaction: discord.Interaction):
