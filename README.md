@@ -11,11 +11,9 @@ Meet my dobby copilot discord bot to help you :
 * You can add the Bot to your discord server and start fixing codes together
 * Use your own `.env` file so you don't leak your Bot token and API key - 100% safe
 
-![WhatsApp Image 2025-08-14 at 14 53 50_14f9ef32](https://github.com/user-attachments/assets/c5fdc7f4-d58c-4309-8249-9637c735af32) ![WhatsApp Image 2025-08-14 at 14 52 19_d3f7af86](https://github.com/user-attachments/assets/494e98d0-7476-4f50-b722-ebc2d0e76f79)
+![WhatsApp Image 2025-08-14 at 14 53 50_14f9ef32](https://github.com/user-attachments/assets/c5fdc7f4-d58c-4309-8249-9637c735af32)
 
-
-![WhatsApp Image 2025-08-14 at 14 52 51_c131ec83](https://github.com/user-attachments/assets/fa0b16b9-ec8c-476b-82b1-127c6da0b04f) ![WhatsApp Image 2025-08-14 at 14 52 16_132ddd77](https://github.com/user-attachments/assets/6021d97f-b4fc-4a25-936e-cebbbfca9e60)
-
+![WhatsApp Image 2025-08-14 at 14 52 51_c131ec83](https://github.com/user-attachments/assets/fa0b16b9-ec8c-476b-82b1-127c6da0b04f)
 
 ---
 
