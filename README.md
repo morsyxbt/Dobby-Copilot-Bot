@@ -133,6 +133,7 @@ FIREWORKS_API_KEY=your.fireworks.api.key.here
 ```
 python dobby_copilot_bot.py
 ```
+![WhatsApp Image 2025-08-14 at 14 52 22_454cc969](https://github.com/user-attachments/assets/ad030d7b-f7d0-4752-889c-cb2d205af7f8)
 
 ---
 
