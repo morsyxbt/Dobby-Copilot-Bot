@@ -150,7 +150,12 @@ python dobby_copilot_bot.py
 * /fixthecode → Returns fixed code + explanation
 
 * /removeapi → Clears API key from memory
-
 ---
 
 **Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt) For [Sentient](https://x.com/SentientAGI)**
+
+---
+
+![WhatsApp Image 2025-08-14 at 14 52 19_83312c11](https://github.com/user-attachments/assets/5e8d6946-8d73-4f7d-98c2-ccd95e9d639f)
+
+![WhatsApp Image 2025-08-14 at 14 52 16_1c656d22](https://github.com/user-attachments/assets/eda788b6-686d-4d6b-8986-e33de5a2fdb2)
