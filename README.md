@@ -90,7 +90,7 @@ async def startbot(interaction: discord.Interaction):
 @bot.tree.command(name="pastecode", description="Paste your broken code")
 async def pastecode(interaction: discord.Interaction, code: str):
     bot.user_code = code
-    await interaction.response.send_message("📥 Code saved. Now run `/runcheckup` to analyze it.")
+    await interaction.response.send_message(" Code saved. Now run `/runcheckup` to analyze it.")
 
 @bot.tree.command(name="runcheckup", description="Analyze the pasted code for bugs")
 async def runcheckup(interaction: discord.Interaction):
