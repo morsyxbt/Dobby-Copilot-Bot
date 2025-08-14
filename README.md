@@ -5,15 +5,16 @@ Meet my dobby copilot discord bot to help you :
 * Detect the errors
 * Fix the errors from your code
 * With a proper explanation
-
-![WhatsApp Image 2025-08-14 at 14 53 50_14f9ef32](https://github.com/user-attachments/assets/c5fdc7f4-d58c-4309-8249-9637c735af32)
-
-
 * Uses Dobby model 70B for whole process
 * Uses your fireworks AI API key
 
 * You can add the Bot to your discord server and start fixing codes together
 * Use your own `.env` file so you don't leak your Bot token and API key - 100% safe
+
+![WhatsApp Image 2025-08-14 at 14 53 50_14f9ef32](https://github.com/user-attachments/assets/c5fdc7f4-d58c-4309-8249-9637c735af32)
+
+![WhatsApp Image 2025-08-14 at 14 52 51_c131ec83](https://github.com/user-attachments/assets/fa0b16b9-ec8c-476b-82b1-127c6da0b04f)
+
 ---
 
 ## Follow the guide to run the bot locally using terminal:
