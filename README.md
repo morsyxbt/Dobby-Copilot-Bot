@@ -18,5 +18,12 @@ Meet my dobby copilot discord bot to help you :
 
 ## Follow the guide to run the bot locally :
 
-- 
----
+#### Install Python & Dependencies
+
+- Make sure you have Python 3.10+ installed
+- Then in your terminal run :
+```
+pip install discord.py requests
+```
+
+
