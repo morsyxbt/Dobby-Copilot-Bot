@@ -126,19 +126,19 @@ DISCORD_BOT_TOKEN=your.discord.bot.token.here
 FIREWORKS_API_KEY=your.fireworks.api.key.here
 ```
 * note: replace `your.discord.bot.token.here` with your actual Bot Token you can get it from: [Discord Dev Applications](https://discord.com/developers/applications)
-and replace `your.fireworks.api.key.here` with your actual API key you can get from: [Fireworks AI](https://app.fireworks.ai/settings/users/api-keys)
+* and replace `your.fireworks.api.key.here` with your actual API key you can get from: [Fireworks AI](https://app.fireworks.ai/settings/users/api-keys)
 
-### Now You Are Ready To Test The Bot run:
+### You Are Ready To Test The Bot run:
 ```
 python dobby_copilot_bot.py
 ```
 
 ---
 
-### Now you can add your Bot to your server and use it:
-
-* **Features Of Bot**
+### Now add Bot to your server and use it :
+* Visit: [Discord Dev Applications](https://discord.com/developers/applications) and add bot
   
+* **Features Of Bot**
 * /startbot → Confirms bot is running
 
 * /pastecode your_code_here → Saves broken code in memory
