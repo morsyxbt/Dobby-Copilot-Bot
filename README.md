@@ -12,7 +12,7 @@ Meet my dobby copilot discord bot to help you :
 * Uses Dobby model 70B for whole process
 * Uses your fireworks AI API key
 
-* You can add the Bot to your discord server and fixing codes together
+* You can add the Bot to your discord server and start fixing codes together
 * Use your own `.env` file so you don't leak your Bot token and API key - 100% safe
 ---
 
