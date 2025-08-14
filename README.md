@@ -16,7 +16,7 @@ Meet my dobby copilot discord bot to help you :
 * Use your own `.env` file so you don't leak your Bot token and API key - 100% safe
 ---
 
-## Follow the guide to run the bot locally :
+## Follow the guide to run the bot locally using terminal:
 
 #### Install Python & Dependencies
 - Make sure you have Python 3.10+ installed
@@ -35,7 +35,8 @@ pip install python-dotenv
 pip install discord.py python-dotenv aiohttp
 ```
 
-### xxx
+### The Bot Code
+create and file in your path named : `dobby_copilot_bot.py` and paste the below code inside it
 ```
 import os
 import aiohttp
@@ -119,5 +120,35 @@ async def removeapi(interaction: discord.Interaction):
 bot.run(DISCORD_BOT_TOKEN)
 ```
 
-### xx
+### Create a file called `.env`in the same folder as your `dobby_copilot_bot.py` and paste below code inside it
+```
+DISCORD_BOT_TOKEN=your.discord.bot.token.here
+FIREWORKS_API_KEY=your.fireworks.api.key.here
+```
+* note: replace `your.discord.bot.token.here` with your actual Bot Token you can get it from: [Discord Dev Applications](https://discord.com/developers/applications)
+and replace `your.fireworks.api.key.here` with your actual API key you can get from: [Fireworks AI](https://app.fireworks.ai/settings/users/api-keys)
 
+### Now You Are Ready To Test The Bot run:
+```
+python dobby_copilot_bot.py
+```
+
+---
+
+### Now you can add your Bot to your server and use it:
+
+* **Features Of Bot**
+  
+* /startbot → Confirms bot is running
+
+* /pastecode your_code_here → Saves broken code in memory
+
+* /runcheckup → Sends code to Dobby for bug analysis
+
+* /fixthecode → Returns fixed code + explanation
+
+* /removeapi → Clears API key from memory
+
+---
+
+**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt) For [Sentient](https://x.com/SentientAGI)**
